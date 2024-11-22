@@ -1,0 +1,14 @@
+{
+  "guacamoleVersion": "1.0.0",
+
+  "name": "Create PWA Manifest",
+  "namespace": "create-pwa-manifest",
+
+  "js": [
+      "js/add-pwa-manifest.js"
+  ],
+
+  "resources": {
+      "manifest/manifest.json": "application/manifest+json"
+  }
+}
